@@ -1,9 +1,9 @@
 body {
     margin: 0;
-}
-#hero {
     background: url('img/faded-office.png');
     background-size: cover;
+}
+#hero {
     margin: 0;
     padding: 1px;
 
